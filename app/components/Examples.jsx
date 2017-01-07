@@ -12,7 +12,7 @@ var Examples =(props) => {
   return (
     <div>
       <h3>Examples Component!</h3>
-      <p>Welcome to example page!</p>
+      <p>Welcome to example page!!</p>
     </div>
   )
 };
